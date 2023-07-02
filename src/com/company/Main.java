@@ -21,6 +21,7 @@ public class Main {
         method(12);
 
 
+
     }
 
 //    private int ins;
